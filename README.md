@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # [Workflow Automation](https://workflows-flax.vercel.app)
 
 ![Landing Page](assets/landing.png)
@@ -11,9 +9,6 @@
 
 Workflow Automation enables seamless automation of your workflows. Users can effortlessly create workflows and configure them to the available trigger providers and multiple available actions with precision or use pre-built AI-powered templates. Designed with a robust event-driven architecture, the application ensures reliable and asynchronous execution of actions upon each trigger, providing high performance.
 
-## Demo Video
-
-[Watch Workflow Automation Demo 🚀](https://www.loom.com/share/45ca04286a0e4497b78689a3fbe48b3f?sid=5e3795c0-6343-4087-86af-b4b46e82b206)
 
 ## Features
 
@@ -293,9 +288,4 @@ To install Docker, run the following commands in your terminal:
     docker-compose -up
     ```
 
-## Contact
 
-For any inquiries or support, please email us at shreekargade2004@gmail.com or open an issue in this repository.
-
-Enjoy your workflow automation process!⚒️🚀
->>>>>>> 672cae3 (completed)
